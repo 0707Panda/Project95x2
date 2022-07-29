@@ -1,0 +1,14 @@
+body{
+    background-color: paleturquoise;
+    background-size:cover;
+    background-position: center;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+    border-width:10px;
+    border-radius: 10px;
+    border-color:black;
+    border-style: ridge;
+}
